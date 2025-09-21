@@ -1,0 +1,3 @@
+pydantic --> BaseModel for data modeling
+typing --> for specific data models like lists and .....
+fastapi --> for running the api on code
